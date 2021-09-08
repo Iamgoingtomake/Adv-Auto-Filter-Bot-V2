@@ -6,15 +6,18 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b><b>എന്റെ പേര് 𝙏𝙊𝙓𝙄𝙉! </b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>🤭 എന്നെ നിർമിച്ചിരിക്കുന്നത് 𝘼𝙨𝙜𝙖𝙧𝙙𝙞𝙖𝙣𝙨 𝘾𝙝𝙖𝙩𝙨 ഗ്രൂപ്പിലേക്ക് ആണ്.</b>
+<b>എന്നെ നിന്റെ ഗ്രൂപ്പിൽ add ചെയ്യാൻ പറ്റില്ല പിന്നെ മൂവീസ് ചോതിച്ചു വന്നണെങ്കിൽ എടുത്തു</b>"""
 
-<b>Press /help to know about available commands🤪</b>"""    
+
+
+
+
+    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -53,11 +56,11 @@ class Translation(object):
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href=https://t.me/Hyetelegram">👤Hyetelegram</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/">💥Click Me</a></b>
 """
